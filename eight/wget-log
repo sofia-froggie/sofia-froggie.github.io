@@ -1,0 +1,16 @@
+--2023-01-01 11:06:19--  https://vk.com/doc491902773_651649925?hash=gYULPvpmHtDAB6BeyZfNmBAyGP4UIuBehsHILkPxroP
+Resolving vk.com (vk.com)... 87.240.129.133, 87.240.132.72, 87.240.132.78, ...
+Connecting to vk.com (vk.com)|87.240.129.133|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://psv4.userapi.com/c240331/u491902773/docs/d12/cd75871bac6c/vikss.zip?extra=vzfPPWC0YSy3fIK_U3Tit_4fkfTas9dQg6F7vlJPGQUhgW_CKSOjN7vPkkkkBmon7d2-NlHBXlevNiXWM9Zmrh2XE0399Y3EMnFzWcdrIZ-RoFKPY_2odI2CuMVyR2CBn-JTbm3098zEhSc&dl=1 [following]
+--2023-01-01 11:06:20--  https://psv4.userapi.com/c240331/u491902773/docs/d12/cd75871bac6c/vikss.zip?extra=vzfPPWC0YSy3fIK_U3Tit_4fkfTas9dQg6F7vlJPGQUhgW_CKSOjN7vPkkkkBmon7d2-NlHBXlevNiXWM9Zmrh2XE0399Y3EMnFzWcdrIZ-RoFKPY_2odI2CuMVyR2CBn-JTbm3098zEhSc&dl=1
+Resolving psv4.userapi.com (psv4.userapi.com)... 87.240.190.89, 87.240.137.140, 87.240.190.76, ...
+Connecting to psv4.userapi.com (psv4.userapi.com)|87.240.190.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4290 (4.2K) [application/zip]
+Saving to: ‘doc491902773_651649925?hash=gYULPvpmHtDAB6BeyZfNmBAyGP4UIuBehsHILkPxroP’
+
+                     doc491902773_6516499   0%[                                                                                    ]       0  --.-KB/s               doc491902773_651649925?hash=gYULPvpmHtDAB 100%[===================================================================================>]   4.19K  --.-KB/s    in 0s      
+
+2023-01-01 11:06:21 (832 MB/s) - ‘doc491902773_651649925?hash=gYULPvpmHtDAB6BeyZfNmBAyGP4UIuBehsHILkPxroP’ saved [4290/4290]
+
